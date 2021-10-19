@@ -3,7 +3,7 @@
 ## ✨ About Me in 30 Secs ✨
 
 - 👩🏻‍💻 An accountant & treasury analyst.
-- 📈 Started to learn Data Analytics in Aug 2021 and would love to combine my Accounting and DA knowledge
+- 📈 Started my journey of learning Data Analytics and would love to combine my Accounting and DA knowledge
 - 📊 Loves working with numbers and learning new skills. I taught myself SQL and Python.
 - 📚 Uses Excel for lots of stuff - personal expenses and budgets, travel itinerary, to-do list, etc.
 
