@@ -9,7 +9,7 @@
 
 ## 🔐 My Key Competencies
 
-- Tools: SQL (SQL Server, MySQL), Python, Excel (Pivot Tables, Vlookup, Charts), Google Sheets
+- Analytics Tool: SQL (SQL Server, MySQL), Python, Excel (Pivot Tables, Vlookup, Charts), Google Sheets
 - Skills: Data Wrangling, Analysis, Business Analysis
 
 <!--
