@@ -9,8 +9,9 @@
 
 ## 🔐 My Key Competencies
 
-- Analytics Tool: SQL (SQL Server, MySQL), Python, Excel (Pivot Tables, Vlookup, Charts), Google Sheets
-- Skills: Data Wrangling, Analysis, Business Analysis
+- Analytics Tool: SQL (SQL Server, MySQL, Google Cloud SQL), Python, Excel (Pivot Tables, Vlookup, Charts), Google Sheets
+- Skills: Data Wrangling, Data Analytics, Business Analysis, Project Management, Accounting, Financial Statement Analysis
+
 
 <!--
 **enguyen007/enguyen007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
